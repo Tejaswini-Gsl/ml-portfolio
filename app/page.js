@@ -38,7 +38,7 @@ export default function Portfolio() {
         <section id="home" className="relative min-h-screen flex flex-col justify-center items-center p-8 text-center bg-black">
           <div className="absolute top-0 left-0 w-full h-full overflow-hidden">
             <video autoPlay loop muted playsInline className="w-full h-full object-cover opacity-50">
-              <source src="/bgv.mov" type="video/mp4" />
+              <source src="/bgv.mp4" type="video/mp4" />
             </video>
           </div>
           <div className="relative z-10">
