@@ -118,9 +118,9 @@ export default function Portfolio() {
               {activeTab === "experience" && (
                 <div className="text-white-400 text-justify  ">
                   <p className="text-pink-400 text-lg"><strong>2021 - 2023</strong></p>
-                  <p className="text-lg">Data Analyst / Software Engineer at Ford Motor Company</p>
+                  <p className="text-lg">Data Scientist/Software Engineer at Ford Motor Company</p>
                   <p className="mt-8 text-pink-400 text-lg"><strong>2020 - 2021</strong></p>
-                  <p className="text-lg">Data Scientist at CloudEarl Solutions</p>
+                  <p className="text-lg">Data Engineer at CloudEarl Solutions</p>
                 </div>
               )}
               {activeTab === "education" && (
